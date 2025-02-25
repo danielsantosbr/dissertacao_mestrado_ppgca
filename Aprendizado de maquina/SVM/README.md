@@ -1,0 +1,1 @@
+Adaptado de: https://gist.github.com/pb111/ca4680d8960c46aeb1b824a93a079fa7
